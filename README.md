@@ -10,7 +10,7 @@ This Project analyses sales data for a coffee company using Microsoft Excel to g
 - Provide recommendations for improving sales, optimizing product offerings, and targeting specific customer segments.
 
 ## File
-[coffee_sales](C:\Users\user\Documents\Coffee Sales Data.csv).
+[coffee_sales](https://pages.Coffee Sales Data.csv).
 
 ## Results
 C:\Users\user\Documents\Coffee Sales Data.csv
